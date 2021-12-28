@@ -1,0 +1,8 @@
+{
+  "name": "status",
+  "author": "KinGesteR",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
