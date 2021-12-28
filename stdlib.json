@@ -1,0 +1,11 @@
+{
+  "name": "Your_User_Name/status",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/scheduler/minutely.js": {
+      "name": "scheduler.minutely"
+    }
+  },
+  "env": []
+}
