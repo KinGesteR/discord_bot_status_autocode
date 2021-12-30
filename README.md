@@ -5,6 +5,5 @@ Change Discord bot status in autocode.com + Count Server in discord bot status
 `Scheduler _ Once a minute`
 
 Another : KinGesteR 
-
 Host : https://www.autocode.com/
 
