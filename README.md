@@ -4,7 +4,9 @@ Change Discord bot status in autocode.com + Count Server in discord bot status
 # Endpoint type
 `Scheduler _ Once a minute`
 
-Another : KinGesteR 
+ Author : KinGesteR#9403 `In Discord`.
 
-Host : https://www.autocode.com/
+ Host : https://autocode.com/ `Free Host`.
+
+ Lib : Private autocode library.
 
